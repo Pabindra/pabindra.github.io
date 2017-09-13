@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -497,6 +498,10 @@ h6,
 #msg-box2-w .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#msg-box2-w .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
 #features4-e .card-subtitle {
   color: #bcbcbc;
 }
@@ -514,7 +519,7 @@ h6,
   color: #ffffff;
 }
 #contacts3-a .btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #contacts3-a B {
   font-family: 'Montserrat', sans-serif;
@@ -604,7 +609,7 @@ h6,
   color: #ffffff;
 }
 #contacts3-l .btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #contacts3-l B {
   font-family: 'Montserrat', sans-serif;
@@ -697,7 +702,7 @@ h6,
   color: #ffffff;
 }
 #contacts3-j .btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #contacts3-j B {
   font-family: 'Montserrat', sans-serif;
@@ -787,7 +792,7 @@ h6,
   color: #ffffff;
 }
 #contacts3-h .btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #contacts3-h B {
   font-family: 'Montserrat', sans-serif;
