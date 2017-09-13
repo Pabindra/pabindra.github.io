@@ -25,7 +25,8 @@
       "additionalSetColors": [
         "#7c7c7c",
         "#565656",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#f2f2f2"
       ]
     },
     "uniqCompNum": 32,
@@ -214,7 +215,9 @@
             },
             "H2": {
               "text-align": "left",
-              "font-size": "46px"
+              "font-size": "46px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         },
@@ -223,19 +226,28 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/offers-sect1-header-d-405x198.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -244,12 +256,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "FREE SERVICING AND \r<div>OIL CHANGE CAMP</div>",
+          "title": "FREE SERVICING AND \n<div>OIL CHANGE CAMP</div>",
           "text": "<p>Dashain Promotional camp&nbsp;</p><p>Bhadra 25 - Aswin 10 </p><p>&nbsp;DHacmandu Auto Clinic.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">For more details, contact us at +977 1 4782684&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Tel:+977-1-4782684\" data-toolbar=\"-mbrBtnMove\">Call us for more details</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-s"
         },
