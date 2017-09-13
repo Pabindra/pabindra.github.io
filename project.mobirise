@@ -29,7 +29,7 @@
         "#f2f2f2"
       ]
     },
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -119,7 +119,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -478,8 +478,8 @@
             "ShowTexts": false,
             "showButtons": false,
             "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -688,16 +688,16 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
+          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br><br><b><br></b><br><br><br><br><br><br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for contacting us."
             },
             "fields": {
               "name": {
@@ -830,7 +830,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1055,11 +1055,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
+          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br><br><b><br></b><br><br><br><br><br><br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
@@ -1197,7 +1197,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1425,11 +1425,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
+          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br><br><b><br></b><br><br><br><br><br><br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
@@ -1567,7 +1567,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1792,11 +1792,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
+          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br><br><b><br></b><br><br><br><br><br><br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
