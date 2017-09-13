@@ -24,10 +24,11 @@
       },
       "additionalSetColors": [
         "#7c7c7c",
-        "#565656"
+        "#565656",
+        "#2e2e2e"
       ]
     },
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -112,7 +113,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -510,110 +511,6 @@
           }
         },
         {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-t"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
@@ -775,7 +672,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " +977 1 4782684",
+          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
           "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
@@ -912,7 +809,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1137,7 +1034,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " +977 1 4782684",
+          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
           "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
@@ -1274,7 +1171,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1502,7 +1399,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " +977 1 4782684",
+          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
           "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
@@ -1639,7 +1536,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1864,7 +1761,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>",
           "title1": "Services",
           "text1": "We are DHacmandu Auto Clinic",
-          "text2": " +977 1 4782684",
+          "text2": " <a href=\"Tel: +977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
           "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
