@@ -65,10 +65,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -96,8 +96,8 @@
               "color": "#2969b0!important"
             },
             ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
@@ -108,7 +108,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28324e",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -117,7 +117,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -157,7 +157,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/647a2f331ae3bffa2f87c4ad37d89b45-736x735.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -165,7 +165,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "REPAIR &amp; SERVICE",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "<br>ALL THE LOVE &amp; CARE THAT YOUR BIKE DESERVES",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Repair and maintenance.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> ",
                 "overlayOpacity": "0.5"
@@ -180,13 +180,13 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "PARTS <br>&amp; <br>ACCESSORIES",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "<br>EVERYTHING THAT YOUR BIKE NEEDS UNDER &nbsp;ONE ROOF",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Parts and accessories.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/norton-motorcycle-1200x799.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -194,7 +194,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "SALES <br>&amp; <br>AFTER SALES SERVICE",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "<br>ONE STOP SHOP ALL YOUR BIKE NEEDS",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Sales and after sales service.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
               }
@@ -210,10 +210,10 @@
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "center"
+              "text-align": "left"
             },
             "H2": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "46px"
             }
           }
@@ -617,8 +617,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -765,10 +765,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -796,8 +796,8 @@
               "color": "#2969b0!important"
             },
             ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
@@ -808,7 +808,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28324e",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -817,7 +817,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -983,8 +983,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1131,10 +1131,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1162,8 +1162,8 @@
               "color": "#2969b0!important"
             },
             ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
@@ -1174,7 +1174,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28324e",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1183,7 +1183,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1352,8 +1352,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1500,10 +1500,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1531,8 +1531,8 @@
               "color": "#2969b0!important"
             },
             ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_params": {
@@ -1543,7 +1543,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#28324e",
-            "fontSize": "1.2",
+            "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -1552,7 +1552,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\">CONTACT US</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map mbr-iconfont mbr-iconfont-btn\"></span></a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
@@ -1718,8 +1718,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
