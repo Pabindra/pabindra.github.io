@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Repair and maintenance.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.2.4",
+    "versionPublish": "4.2.5",
     "name": "DHAC",
     "theme": {
       "name": "mobirise3",
@@ -252,7 +252,7 @@
           },
           "title": "FREE SERVICING AND\n<div>OIL CHANGE CAMP</div>",
           "text": "Dashain Promotional camp \rBhadra 25 - Aswin 10&nbsp;<div><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact us for more details</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tel:+977-1-4782684\" data-toolbar=\"-mbrBtnMove\">Contact us for more details</a>",
           "_tags": [
             "Theme"
           ],
@@ -700,7 +700,7 @@
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Email*"
               },
