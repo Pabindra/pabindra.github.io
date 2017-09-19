@@ -184,7 +184,7 @@
                 "title": "PARTS <br>&amp; <br>ACCESSORIES",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<br>EVERYTHING THAT YOUR BIKE NEEDS UNDER &nbsp;ONE ROOF",
+                "text": "<br>EVERYTHING THAT YOUR BIKE NEEDS UNDER ONE ROOF",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Parts and accessories.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
               },
               {
@@ -198,7 +198,7 @@
                 "title": "SALES <br>&amp; <br>AFTER SALES SERVICE",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<br>ONE STOP SHOP ALL YOUR BIKE NEEDS",
+                "text": "<br>ONE STOP SHOP FOR ALL YOUR BIKE NEEDS",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Sales and after sales service.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
               }
             ]
