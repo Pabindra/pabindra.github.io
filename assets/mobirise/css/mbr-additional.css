@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -495,6 +496,7 @@ h6,
 }
 #msg-box2-w .mbr-section-title {
   color: #fff;
+  font-size: 20px;
 }
 #msg-box2-w .mbr-section-subtitle {
   color: #a0a0a0;
@@ -502,6 +504,13 @@ h6,
 #msg-box2-w .btn {
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
+}
+#msg-box2-w .mbr-section-title DIV {
+  font-size: 48px;
+}
+#msg-box2-w .mbr-section-title SPAN {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
 }
 #features4-e .card-subtitle {
   color: #bcbcbc;
