@@ -2,8 +2,8 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.2.5",
-    "name": "DHAC",
+    "versionPublish": "4.3.0",
+    "name": "KAC",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
         "#f2f2f2"
       ]
     },
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -140,7 +140,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DHAC</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -159,7 +159,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/647a2f331ae3bffa2f87c4ad37d89b45-736x735.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -174,7 +174,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/3c34a3210be59c8689764cd07afb1325-cool-motorcycles-workshop-ideas-640x585.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -194,7 +194,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "SALES <br>&amp; <br>AFTER SALES SERVICE",
+                "title": "<br>SALES <br>&amp; <br>AFTER SALES SERVICE",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<br>ONE STOP SHOP ALL YOUR BIKE NEEDS",
@@ -258,7 +258,7 @@
           },
           "title": "FREE SERVICING AND\n<div>OIL CHANGE CAMP</div>",
           "text": "Dashain Promotional camp \rBhadra 25 - Aswin 10&nbsp;<div><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tel:+977-1-4782684\" data-toolbar=\"-mbrBtnMove\">Contact us for more details</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tel:+977-1-4782684\" data-toolbar=\"-mbrBtnMove\">Contact us for more details</a>",
           "_tags": [
             "Theme"
           ],
@@ -687,12 +687,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
-          "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
+          "text1": "We are Kathmandu Auto Clinic.",
+          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN : 8 AM - 6 PM</b><br><b>MON : 8 AM - 6 PM</b><br><b>TUE : 8 AM - 6 PM<br>WED : 8 AM - 6 PM</b><br><b>THU : 8 AM - 6 PM<br>FRI : 8 AM - 6 PM</b><br><b>SAT :&nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
@@ -851,7 +851,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DHAC</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -1054,12 +1054,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
-          "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
+          "text1": "We are Kathmandu Auto Clinic.",
+          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN : 8 AM - 6 PM</b><br><b>MON : 8 AM - 6 PM</b><br><b>TUE : 8 AM - 6 PM<br>WED : 8 AM - 6 PM</b><br><b>THU : 8 AM - 6 PM<br>FRI : 8 AM - 6 PM</b><br><b>SAT :&nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
@@ -1218,7 +1218,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DHAC</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -1424,12 +1424,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
-          "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
+          "text1": "We are Kathmandu Auto Clinic.",
+          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN : 8 AM - 6 PM</b><br><b>MON : 8 AM - 6 PM</b><br><b>TUE : 8 AM - 6 PM<br>WED : 8 AM - 6 PM</b><br><b>THU : 8 AM - 6 PM<br>FRI : 8 AM - 6 PM</b><br><b>SAT :&nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
@@ -1588,7 +1588,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DHAC</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -1791,12 +1791,12 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
-          "text1": "We are DHacmandu Auto Clinic",
-          "text2": " <a href=\"Tel: +977-1-4782684\" target=\"_blank\">+977 1 4782684</a>",
+          "text1": "We are Kathmandu Auto Clinic.",
+          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
           "text3": "Rudramati Marg, Bijulibazaar\n<br>Kathmandu, 44600",
-          "text4": "<a href=\"mailto:pabi.malla@gmail.com\" target=\"_blank\">service@kac.com</a>",
+          "text4": "<a href=\"mailto:pabi.malla@gmail.com\">service@kac.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
-          "text6": "<b>Hours</b><br><br><br><b>SUN - FRI :</b> 8 AM - 6 PM<br><br><b>SAT :&nbsp;</b>8 AM - 3 PM<br>",
+          "text6": "<b>Hours</b><br><br><br><b>SUN : 8 AM - 6 PM</b><br><b>MON : 8 AM - 6 PM</b><br><b>TUE : 8 AM - 6 PM<br>WED : 8 AM - 6 PM</b><br><b>THU : 8 AM - 6 PM<br>FRI : 8 AM - 6 PM</b><br><b>SAT :&nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
             "action": "pabi.malla@gmail.com",
