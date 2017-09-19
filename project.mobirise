@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Repair and maintenance.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.3.0",
     "name": "KAC",
@@ -701,7 +701,7 @@
             },
             "fields": {
               "name": {
-                "visible": true,
+                "visible": false,
                 "title": "Name",
                 "customTitle": "Name*"
               },
