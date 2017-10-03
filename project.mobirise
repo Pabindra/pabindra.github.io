@@ -170,7 +170,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<br>ALL THE LOVE &amp; CARE THAT YOUR BIKE DESERVES",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Repair and maintenance.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Repair and maintenance.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> ",
                 "overlayOpacity": "0.5"
               },
               {
@@ -199,7 +199,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<br>ONE STOP SHOP FOR ALL YOUR BIKE NEEDS",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Sales and after sales service.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sales and after sales service.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
               }
             ]
           },
@@ -472,7 +472,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#565656",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -527,7 +527,7 @@
           "text1": "We are Kathmandu Auto Clinic.",
           "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
           "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
-          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-primary\">ktm.autoclinic@gmail.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
@@ -538,7 +538,7 @@
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
                 "customTitle": "Name*"
               },
@@ -842,7 +842,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#565656",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -897,7 +897,7 @@
           "text1": "We are Kathmandu Auto Clinic.",
           "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
           "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
-          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-primary\">ktm.autoclinic@gmail.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
@@ -1215,7 +1215,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#565656",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1270,7 +1270,7 @@
           "text1": "We are Kathmandu Auto Clinic.",
           "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
           "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
-          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-primary\">ktm.autoclinic@gmail.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
@@ -1585,7 +1585,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#565656",
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1640,7 +1640,7 @@
           "text1": "We are Kathmandu Auto Clinic.",
           "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
           "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
-          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-primary\">ktm.autoclinic@gmail.com</a>",
           "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
