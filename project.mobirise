@@ -76,13 +76,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1b044f"
+              "background": "#190b2f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#260571!important"
+              "background": "#28124c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2b0680"
+              "background": "#2f1558"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -110,7 +110,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2b0680",
+            "bgColor": "#2f1558",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
@@ -660,7 +660,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2b0680",
+            "bgColor": "#2f1558",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
@@ -1030,7 +1030,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2b0680",
+            "bgColor": "#2f1558",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
@@ -1403,7 +1403,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#2b0680",
+            "bgColor": "#2f1558",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
