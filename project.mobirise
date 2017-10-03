@@ -2,23 +2,23 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.3.0",
+    "versionPublish": "4.3.2",
     "name": "KAC",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#2969b0",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#2969b0",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#ffffff",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Roboto",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true,
         "isRtl": false
       },
@@ -56,13 +56,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -76,16 +76,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -95,7 +95,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#3d8eb9!important"
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -110,23 +110,23 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#28324e",
+            "bgColor": "#3d8eb9",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://gmail.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -141,7 +141,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -185,7 +185,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<br>EVERYTHING THAT YOUR BIKE NEEDS UNDER ONE ROOF",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Parts and accessories.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Parts and accessories.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/norton-motorcycle-1200x799.jpg",
@@ -225,58 +225,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "20px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
-            },
-            ".mbr-section-title DIV": {
-              "font-size": "48px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "18px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: normal;\">हाम्रो ग्रुपद्वारा विजया दशमीको उपलक्षमा प्रतुस्त गर्दछ</span>&nbsp;<br><br><div>SERVICING AND</div><div>OIL CHANGE CAMP</div>",
-          "text": "<br>Dashain Promotional camp \nBhadra 25 - Aswin 10&nbsp;<div><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tel:+977-1-4782684\" data-toolbar=\"-mbrBtnMove\">Contact us for more details</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-w"
-        },
-        {
-          "_styles": {
             ".card-subtitle": {
               "color": "#bcbcbc"
             },
@@ -299,7 +247,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -411,132 +359,6 @@
           "_anchor": "features4-e"
         },
         {
-          "_inherit": "features1",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "tools-2",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "beaker",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "delivery",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "50 % discount on labor charge",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "25 % discount on engine oil",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "10 % discount spare parts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features2",
-          "_anchor": "features2-f",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
-        },
-        {
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
@@ -545,7 +367,7 @@
             "showBio": true,
             "count": "3",
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -617,7 +439,12 @@
             "Theme"
           ],
           "_name": "testimonials1",
-          "_anchor": "testimonials1-c"
+          "_anchor": "testimonials1-c",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2f1558"
+            }
+          }
         },
         {
           "_params": {
@@ -629,7 +456,7 @@
             },
             "paddingTop": "3",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#28324e"
           },
           "_tags": [
             "Theme"
@@ -645,7 +472,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#565656",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -698,10 +525,10 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are Kathmandu Auto Clinic.",
-          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
-          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Kathmandu, 44600</a>",
-          "text4": "ktm.autoclinic@gmail.<a href=\"mailto:pabi.malla@gmail.com\">com</a>",
-          "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
+          "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
+          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
@@ -754,6 +581,9 @@
               "color": "#ffffff"
             },
             "H4": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
               "color": "#ffffff"
             }
           }
@@ -830,23 +660,23 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#28324e",
+            "bgColor": "#3d8eb9",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://gmail.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -861,7 +691,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -1012,7 +842,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#565656",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1065,10 +895,10 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are Kathmandu Auto Clinic.",
-          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
-          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Kathmandu, 44600</a>",
-          "text4": "ktm.autoclinic@gmail.<a href=\"mailto:pabi.malla@gmail.com\">com</a>",
-          "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
+          "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
+          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
@@ -1120,6 +950,9 @@
               "color": "#ffffff"
             },
             "H4": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
               "color": "#ffffff"
             }
           },
@@ -1197,23 +1030,23 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#28324e",
+            "bgColor": "#3d8eb9",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://gmail.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1228,7 +1061,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -1382,7 +1215,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#565656",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1435,10 +1268,10 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are Kathmandu Auto Clinic.",
-          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
-          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Kathmandu, 44600</a>",
-          "text4": "ktm.autoclinic@gmail.<a href=\"mailto:pabi.malla@gmail.com\">com</a>",
-          "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
+          "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
+          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
@@ -1490,6 +1323,9 @@
               "color": "#ffffff"
             },
             "H4": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
               "color": "#ffffff"
             }
           },
@@ -1567,23 +1403,23 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#28324e",
+            "bgColor": "#3d8eb9",
             "fontSize": "1",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Repair and maintenance.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Repair and maintenance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Parts and accessories.html\"><span class=\"mbri-delivery mbr-iconfont mbr-iconfont-btn\"></span>Parts and accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Sales and after sales service.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Sales and after sales service</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-a\" aria-expanded=\"false\">HELP &amp; CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Tel:+977-1-4782684\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#map2-8\"><span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>FIND US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/Kathmandu-Auto-Clinic-1616576491717051/\" target=\"_blank\">facebook</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grow%20designs-707x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://gmail.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1598,7 +1434,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KAC</a>",
           "_tags": [
             "Theme"
           ],
@@ -1749,7 +1585,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#565656",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1802,10 +1638,10 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "title1": "Services",
           "text1": "We are Kathmandu Auto Clinic.",
-          "text2": " <a href=\"tel:+977-1-4782684\">+977 1 4782684</a>",
-          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\">Kathmandu, 44600</a>",
-          "text4": "ktm.autoclinic@gmail.<a href=\"mailto:pabi.malla@gmail.com\">com</a>",
-          "text5": "<li><a href=\"Repair and maintenance.html\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\">Sales and after sales service</a></li>",
+          "text2": " <a href=\"tel:+977-1-4782684\" class=\"text-white\">+977 1 4782684</a>",
+          "text3": "<a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Rudramati Marg, Bijulibazaar\n</a><br><a href=\"https://www.google.com.np/maps/place/Kathmandu+Auto+Clinic/@27.6890401,85.3262411,17z/data=!3m1!4b1!4m5!3m4!1s0x39eb19bbefcc4597:0xcb45999e8bcb316f!8m2!3d27.6890354!4d85.3284298?hl=en\" target=\"_blank\" class=\"text-white\">Kathmandu, 44600</a>",
+          "text4": "<a href=\"mailto:ktm.autoclinic@gmail.com\" class=\"text-white\">ktm.autoclinic@gmail.com</a>",
+          "text5": "<li><a href=\"Repair and maintenance.html\" class=\"text-white\">Repair and maintenance</a></li><li><a href=\"Parts and accessories.html\" class=\"text-white\">Parts and accessories</a></li><li><a href=\"Sales and after sales service.html\" class=\"text-white\">Sales and after sales service</a></li>",
           "text6": "<b>Hours</b><br><br><b>SUN &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>MON &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>TUE &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>WED &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>THU &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>FRI &nbsp;: &nbsp;8 AM - 6 PM</b><br><b><br></b><b>SAT &nbsp;: &nbsp;8 AM - 3 PM</b><br>",
           "form": {
             "title": "MESSAGE",
@@ -1857,6 +1693,9 @@
               "color": "#ffffff"
             },
             "H4": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
               "color": "#ffffff"
             }
           },
